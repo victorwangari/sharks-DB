@@ -5,6 +5,8 @@
       "type": "Sneakers",
       "model": "Air Force 1",
       "description": "Suitable for Air Force No. 1 Hemp Rope Shoelace Decoration Accessories Af1 Hemp round Coarse Beige White Accessories",
+      "capacity": 30,
+        "sold": 10,
       "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/27/2551271/1.jpg?1691"
     
     }
@@ -13,6 +15,8 @@
       "type": "Sneakers",
       "model": "Jordan 4",
       "description": "Suitable for Jordan 4 Hemp Rope Shoelace Decoration Accessories Af1 Hemp round Coarse Beige White Accessories",
+      "capacity": 30,
+        "sold": 10,
       "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/73/292696/1.jpg?4905"
     
     },
@@ -21,6 +25,8 @@
       "type": "Sneakers",
       "model": "Jordan 10",
       "description": "Suitable for Jordan 10 Hemp Rope Shoelace Decoration Accessories Af1 Hemp round Coarse Beige White Accessories",
+      "capacity": 30,
+        "sold": 10,
       "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/0866411/1.jpg?4239"
     
     },
@@ -29,6 +35,8 @@
       "type": "Canvas",
       "model": "Canvas shoe",
       "description": "Suitable for Air Force No. 1 Hemp Rope Shoelace Decoration Accessories Af1 Hemp round Coarse Beige White Accessories",
+      "capacity": 30,
+        "sold": 10,
       "image": "https://ke.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/465476/1.jpg?6653"
     
     }
