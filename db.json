@@ -3,8 +3,8 @@
     {
       "id": 1,
       "type": "Sneakers",
-      "model": "Air Force 1",
-      "description": "Air force white ",
+      "model": "Airforce 1",
+      "description": "Airorce 1 white ",
       "capacity": 30,
       "sold": 10,
       "price": "ksh.2500",
@@ -36,8 +36,8 @@
     {
       "id": 4,
       "type": "Sneakers",
-      "model": "Jordan 4",
-      "description": "Jordan 4 white and yellow",
+      "model": "Jordan 9",
+      "description": "Jordan 9 gray and black",
       "capacity": 30,
       "sold": 10,
       "price": "ksh.3000",
@@ -45,7 +45,7 @@
     
     },
     {
-      "id": 4,
+      "id": 5,
       "type": "Sneakers",
       "model": "Airmax 90",
       "description": "Airmax 90 brown",
@@ -56,7 +56,7 @@
     
     },
     {
-      "id": 4,
+      "id": 6,
       "type": "Sneakers",
       "model": "Jordan 4",
       "description": "Jordan 4 white and yellow",
